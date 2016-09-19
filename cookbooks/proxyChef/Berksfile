@@ -1,0 +1,9 @@
+source 'https://supermarket.chef.io'
+
+metadata
+
+cookbook 'mongodb3', '~> 5.3.0'
+cookbook 'nodejs', '~> 2.4.4'
+cookbook 'poise-python', '~> 1.5.1'
+
+

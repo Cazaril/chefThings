@@ -1,0 +1,5 @@
+git "./" do
+  repository https://github.com/FIWARE-TMForum/business-ecosystem-logic-proxy
+  revision "develop"
+  action :sync
+end
